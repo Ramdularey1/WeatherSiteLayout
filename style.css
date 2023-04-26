@@ -19,8 +19,9 @@ body {
 
 main {
     display: flex;
-    justify-content: center;
+/*     justify-content: center; */
     align-items: center;
+    margin-top: 18rem;
     height: 100vh;
     width: min(100% - 3rem, 65ch);
     flex-direction: column;
