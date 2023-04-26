@@ -22,7 +22,8 @@ main {
 /*     justify-content: center; */
     align-items: center;
     margin-top: 18rem;
-    height: 100vh;
+/*     height: 100vh; */
+    height: calc(100vh - 10rem);
     width: min(100% - 3rem, 65ch);
     flex-direction: column;
 }
